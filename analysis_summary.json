@@ -1,0 +1,14 @@
+{
+  "rows": 3649,
+  "columns": 21,
+  "years_min": 2000,
+  "years_max": 2020,
+  "countries_or_entities": 176,
+  "missing_values_total": 6978,
+  "duplicate_rows": 0,
+  "regression": {
+    "MAE": 32354.661605982325,
+    "RMSE": 107199.74572829402,
+    "R2": 0.9825175619734291
+  }
+}
